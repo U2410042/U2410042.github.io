@@ -1,0 +1,30 @@
+.Mostimp {
+  font-weight: 900;
+}
+h1 {
+  font-weight: 300;
+}
+li {
+  font-size: 20px;
+}
+img {
+  margin: 1px;
+  align-items: center;
+  display: inline-block;
+  width: 500px;
+  height: 500px;
+}
+body {
+  background-color: grey;
+}
+ul {
+  font-style: italic;
+  color: khaki;
+}
+h2 {
+  color: aqua;
+}
+h3 {
+  font-style: italic;
+  color: azure;
+}
